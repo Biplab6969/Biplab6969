@@ -5,6 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
+<p><img src="https://wakatime.com/badge/user/de94a1f3-9f5a-49cd-84d2-2f0823272880.svg"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biplab6969&label=Profile%20views&color=0e75b6&style=flat" alt="biplab6969" /> </p>
 
 - 🌱 I’m currently learning **Backend Deveopment**
