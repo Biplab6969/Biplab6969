@@ -21,9 +21,11 @@
 <a href="https://instagram.com/_______l_u_c_k_y__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_______l_u_c_k_y__" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jbiplab80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jbiplab80" height="30" width="40" /></a>
 </p>
+<br/>
+<br/>
+<br/>
 ### 📝  Programming Languages:
 
-  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" />
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Java.svg" />
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" />
@@ -75,7 +77,7 @@
 
 ### 💻  OTHERS:
 
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Figma.svg" /> -->
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Figma.svg" />
 <br/>
 <br/>
 <br/>
@@ -88,4 +90,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biplab6969&show_icons=true&locale=en" alt="biplab6969" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biplab6969&" alt="biplab6969" /></p>
+
 
