@@ -49,6 +49,7 @@
 <br/>
 <br/>
 
+
 ### 📚  Databases:
 
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Firebase.svg" />
@@ -59,6 +60,7 @@
 <br/>
 <br/>
 
+
 ### 💻  IDE:
 
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" />
@@ -66,17 +68,21 @@
 <br/>
 <br/>
 
+
 ### 💻  OTHERS:
 
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Figma.svg" />
 <br/>
 <br/>
 
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biplab6969&show_icons=true&locale=en&layout=compact" alt="biplab6969" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biplab6969&show_icons=true&locale=en" alt="biplab6969" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biplab6969&" alt="biplab6969" /></p>
+
 
 
 
