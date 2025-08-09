@@ -8,7 +8,7 @@
 <p><img src="https://wakatime.com/badge/user/de94a1f3-9f5a-49cd-84d2-2f0823272880.svg"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biplab6969&label=Profile%20views&color=0e75b6&style=flat" alt="biplab6969" /> </p>
 
-- 🌱 I’m currently learning **Backend Deveopment**
+- 🌱 I’m currently learning **Devops**
 
 - 💬 Ask me about **react,javascript**
 
@@ -29,12 +29,13 @@
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Java.svg" />
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" />
+   <img src="https://skillicons.dev/icons?i=python" alt="Skills" />
 <br/>
 <br/>
 <br/>
 <br/>
 
-### 🖼️  Frameworks and Tools:
+ 🖼️  Frameworks and Tools:
 
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" />
 
@@ -90,5 +91,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biplab6969&show_icons=true&locale=en" alt="biplab6969" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biplab6969&" alt="biplab6969" /></p>
+
 
 
