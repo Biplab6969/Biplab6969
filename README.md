@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **frontend & Backend Web Development**
 
-- 📫 How to reach me **jbiplab80@gmail.com**
+- 📫 How to reach me **biplabjenaofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -85,6 +85,7 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=biplab6969&show_icons=true&locale=en&layout=compact" alt="biplab6969" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biplab6969&show_icons=true&locale=en" alt="biplab6969" /></p>
+
 
 
 
