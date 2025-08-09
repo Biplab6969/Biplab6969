@@ -1,7 +1,7 @@
 ﻿# Biplab6969
  ![logo](https://github.com/Biplab6969/Biplab6969/blob/main/js-gif.gif)
 <h1 align="center">Hi 👋, I'm Biplab Jena</h1>
-<h3 align="center">A passionate Web Developer, from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
@@ -85,6 +85,7 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=biplab6969&show_icons=true&locale=en&layout=compact" alt="biplab6969" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biplab6969&show_icons=true&locale=en" alt="biplab6969" /></p>
+
 
 
 
