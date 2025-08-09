@@ -25,10 +25,8 @@
 <br/>
 <br/>
 📝  Programming Languages:
+<img src="https://skillicons.dev/icons?i=js,ts,python,java" alt="Skills" />
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java" alt="Skills" />
-</div>
 <br/>
 <br/>
 <br/>
@@ -90,6 +88,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biplab6969&show_icons=true&locale=en" alt="biplab6969" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biplab6969&" alt="biplab6969" /></p>
+
 
 
 
