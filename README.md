@@ -74,6 +74,8 @@
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Figma.svg" />
 <br/>
 <br/>
+<br/>
+<br/>
 
 
 
@@ -82,6 +84,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biplab6969&show_icons=true&locale=en" alt="biplab6969" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biplab6969&" alt="biplab6969" /></p>
+
 
 
 
