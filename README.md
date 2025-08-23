@@ -86,10 +86,12 @@
 <p><!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=biplab6969&show_icons=true&locale=en&layout=compact" alt="biplab6969" /> -->
 ### ⏳ Coding Stats (via WakaTime)
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Biplab123&layout=compact&theme=midnight-purple&range=all_time"/>
+<figure><embed src="https://wakatime.com/share/@Biplab123/72c10de9-5b8b-438e-8e9a-6b1ce588e453.svg"></embed></figure>
 
 
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biplab6969&show_icons=true&locale=en" alt="biplab6969" /></p>
+
 
 
 
