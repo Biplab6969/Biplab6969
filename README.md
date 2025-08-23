@@ -83,8 +83,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biplab6969&" alt="biplab6969" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=biplab6969&show_icons=true&locale=en&layout=compact" alt="biplab6969" /></p>
+<p><!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=biplab6969&show_icons=true&locale=en&layout=compact" alt="biplab6969" /> -->
+### ⏳ Coding Stats (via WakaTime)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Biplab123&layout=compact&theme=midnight-purple&range=all_time"/>
+
+
+</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biplab6969&show_icons=true&locale=en" alt="biplab6969" /></p>
+
 
 
 
