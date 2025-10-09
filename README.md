@@ -8,11 +8,15 @@
 <p><img src="https://wakatime.com/badge/user/de94a1f3-9f5a-49cd-84d2-2f0823272880.svg"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biplab6969&label=Profile%20views&color=0e75b6&style=flat" alt="biplab6969" /> </p>
 
-- 🌱 I’m currently learning **Devops**
+- 💻 Full Stack Developer passionate about building scalable, clean, and high-performing web applications using modern technologies**
 
-- 💬 Ask me about **frontend & Backend Web Development**
+- 🚀 I love solving real-world problems through code and transforming ideas into intuitive digital experiences**
+
+- 🌱 Constantly learning and evolving to stay ahead in the ever-changing tech world**
 
 - 📫 How to reach me **biplabjenaofficial@gmail.com**
+
+-  🔗<a href="https://portfolio-pi-flax-59.vercel.app/">My Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -97,6 +101,7 @@
 
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biplab6969&show_icons=true&locale=en" alt="biplab6969" /></p>
+
 
 
 
