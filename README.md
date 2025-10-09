@@ -26,8 +26,6 @@
 <a href="https://www.leetcode.com/jbiplab80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jbiplab80" height="30" width="40" /></a>
 </p>
 <br/>
-<br/>
-<br/>
 📝  Programming Languages:
 <br/>
 <br/>
@@ -101,6 +99,7 @@
 
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biplab6969&show_icons=true&locale=en" alt="biplab6969" /></p>
+
 
 
 
