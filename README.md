@@ -25,9 +25,14 @@
 <br/>
 <br/>
 📝  Programming Languages:
-<br/>
-<br/>
-<img height="42px" align="left" src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" alt="Skills" />
+<!-- <img height="42px" align="left" src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" alt="Skills" /> -->
+
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/HTML5.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/CSS3.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Java.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Python.svg" />
 
 <br/>
 <br/>
@@ -88,6 +93,7 @@
 
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biplab6969&show_icons=true&locale=en" alt="biplab6969" /></p>
+
 
 
 
