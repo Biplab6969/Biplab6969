@@ -26,7 +26,7 @@
 <br/>
 📝  Programming Languages:
 
-<img height="42px" align="left" src="https://skillicons.dev/icons?i=js,ts,python,java" alt="Skills" />
+<img height="42px" align="left" src="https://skillicons.dev/icons?i=js,ts,python,java,html,css" alt="Skills" />
 
 <br/>
 <br/>
@@ -87,6 +87,7 @@
 
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biplab6969&show_icons=true&locale=en" alt="biplab6969" /></p>
+
 
 
 
